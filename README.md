@@ -1,3 +1,27 @@
+# Project Name
+
+1. Project Name and description about team members and supervisor
+2. Brief Project Introduction 
+3. Probelm Statement
+4. Project workflow 
+5. Expected outcomes
+6. Project labor division
+
+
+///////////////////////////////////////
+
+
+1. Bi-Weekly updates and Milestones 
+2. Repeat every 15 days
+3. 
+4. Final Milestone
+
+
+///////////////////////////////////
+Keep adding all datasheets and useful files and links as well.
+
+
+
 # This is my Final Year Project
 
 ## [ FreeCourseWeb.com ] Datascience - COVID-19 Pneumonia Classification (Deep learning)
